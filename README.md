@@ -1,9 +1,8 @@
 Olá, sou o JosueVitorCoder!
 - 🔭 Em busca de uma oportunidade.
-- 🌱 Estudando Java e cursando técnico em Desenvolvimento de Sistemas e aluno ativo na Alura.
+- 🌱 Estudando Java com foco em MySQL, ORM, JPA e JDBC. Cursando técnico em Desenvolvimento de Sistemas e aluno ativo na Alura. Habilidades: Hibernate, JUnit, Programação     Orientada a Objetos (POO).
 - 📫 Whatsapp: (61)994043465/E-Mail: logiccoder88@gmail.com
-- 😄 Pronouns: Ele/Dele
-- ⚡ Curiosidade: Estudo simultâneo de Java e Desenvolvimento de Sistemas para aprimorar habilidades na área.
+- ⚡ Curiosidade: Estudo simultâneo de Programação (Alura, Udemy e etc...) e Desenvolvimento de Sistemas pelo Senac para aprimorar habilidades na área.
 -->
   <div style="display: inline_block"><br>
   <img align="center" alt="josue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
