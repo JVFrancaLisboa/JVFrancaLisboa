@@ -1,4 +1,4 @@
-Olá, sou o JosueVitorCoder!
+Olá, sou o Josue Vítor!
 - 🔭 Em busca de uma oportunidade.
 - 🌱 Estudando Java com foco em MySQL, ORM, JPA e JDBC. Cursando técnico em Desenvolvimento de Sistemas e aluno ativo na Alura. Habilidades: Hibernate, JUnit, Programação     Orientada a Objetos (POO).
 - 📫 Whatsapp: (61)994043465/E-Mail: logiccoder88@gmail.com
