@@ -1,7 +1,7 @@
 Olá, sou o Josue Vítor!
 - 🔭 Em busca de uma oportunidade.
 - 🌱 Estudando Java com foco em desenvolvimento de sistemas, usando MySQL, JDBC, JPA, e ORM. Cursando Técnico em Desenvolvimento de Sistemas, com habilidades em Hibernate, JUnit e Spring Boot. Experiência com desenvolvimento de APIs RESTful e POO. Familiaridade com ferramentas como Apache Maven e iReport para geração de relatórios.
-- 📫 Whatsapp: (61)994043465/E-Mail: logiccoder88@gmail.com
+- 📫 Whatsapp: (61)994043465/E-Mail: josuevitorfrancalisboa@gmail.com
 - ⚡ Curiosidade: Estudo simultâneo de Programação (Alura, Udemy e etc...) e Desenvolvimento de Sistemas pelo Senac para aprimorar habilidades na área.
 -->
   <div style="display: inline_block"><br>
