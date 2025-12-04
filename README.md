@@ -32,7 +32,7 @@ Minha formação inclui o curso **Técnico em Desenvolvimento de Sistemas** e es
   <img align="center" alt="Maven" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
 </div>
 
-## 🔗 Contato
+## 🔗 Contatos
 
 | Contato | Informação |
 | :--- | :--- |
